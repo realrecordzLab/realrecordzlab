@@ -44,7 +44,7 @@
         </a>
         </div>
         <div class="col-6 px-sm-2 p-md-0 text-lg-center">
-        <a href="#">
+        <a href="https://addons.mozilla.org/it/firefox/addon/raiplay-downloader/">
           <img class="img-fluid" src="assets/get-the-addon.png" width="180">
         </a>
         </div>
@@ -62,7 +62,7 @@
         </a>
         </div>
         <div class="col-6 px-sm-2 p-md-0 text-lg-center">
-        <a href="#">
+        <a href="https://addons.mozilla.org/it/firefox/addon/instagram-watcher/">
           <img src="assets/get-the-addon.png" class="img-fluid" width="180">
         </a>
         </div>  
